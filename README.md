@@ -131,7 +131,7 @@ Remote work opportunities are increasingly common in AI jobs.
 
 These insights help understand current trends in the AI job market.
 
-How to Run the Project
+# How to Run the Project
 
 Clone the repository
 
@@ -147,7 +147,7 @@ Import the dataset into MySQL and execute the SQL queries.
 
 Open the Power BI (.pbix) file to explore the interactive dashboard.
 
-Project Files
+# Project Files
 
 The repository includes the following files:
 
