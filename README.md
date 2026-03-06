@@ -8,7 +8,7 @@ This project provides an end-to-end analysis of the AI job market and salary tre
 
 > Source: Public AI job market & salary datasets
 
-> Format: <a href = https://github.com/Vikku018/Global-AI-Job-Salary-analysis/blob/main/ai_job_dataset.csv>Click For Dataset</a>CSV
+> Format: <a href = https://github.com/Vikku018/Global-AI-Job-Salary-analysis/blob/main/ai_job_dataset.csv>Click For Dataset </a>CSV
 
 > Features:
 
