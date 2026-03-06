@@ -59,7 +59,8 @@ Salary ranges by AI role and experience level
 Job demand by industry and location
 
 Interactive filters for deep analysis
-<img width="1348" height="752" alt="Screenshoot" src="https://github.com/user-attachments/assets/0942e164-7b9c-4e2f-a8c4-d6fee29add4e" />
+<img width="1348" height="752" alt="Screenshoot" src="<img width="1348" height="752" alt="Screenshoot" src="https://github.com/user-attachments/assets/f20c50e8-b428-4d9a-88cc-9c74dd2325ee" />
+" />
 
 
 ## 📈 Results
