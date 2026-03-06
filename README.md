@@ -1,151 +1,91 @@
-# Global-AI-Job-Salary-analysis
+# AI Job Market Salary Analysis
 
-## Overview
+## 📖 Overview
 
-This project analyzes the AI job market salary trends using a complete data analytics workflow. The process includes data loading in Python, exploratory data analysis (EDA), data cleaning, SQL-based analysis using MySQL, and visualization through a Power BI dashboard.
+This project provides an end-to-end analysis of the AI job market and salary trends. It combines Python, SQL, and Power BI to explore AI roles, salary patterns, industry demand, and key skills. The insights are presented through an interactive dashboard, a detailed report, and a professional presentation.
 
-The goal of this project is to identify patterns in salary distribution, experience levels, job roles, and company characteristics in the AI industry.
+## 📂 Dataset
 
-## Dataset
+> Source: Public AI job market & salary datasets
 
-The dataset contains information about AI-related job roles and salaries. Key fields include:
+> Format: CSV
 
-Job Title
+> Features:
 
-Salary in USD
+     Job Role
 
-Experience Level
+     Industry
 
-Employment Type
+     Location
 
-Company Size
+     Experience Level
 
-Company Location
+     Salary Range
 
-Employee Residence
+     Required Skills
 
-Remote Work Ratio
+## 🛠 Tools & Technologies
 
-The dataset was cleaned and processed before performing analysis.
+Python: Data loading, cleaning, and Exploratory Data Analysis (EDA)
 
-## Tools and Technologies
+MySQL Workbench: SQL queries and database management
 
-The following tools were used in this project:
+Power BI: Interactive dashboard creation
 
-Python – Data loading, EDA, and data cleaning
+Gamma: Professional PPT presentation
 
-Pandas & NumPy – Data manipulation and preprocessing
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
-MySQL – SQL queries for data analysis
+## 🧩 Project Steps
 
-Power BI – Interactive dashboard and visualization
+Data Loading: Imported dataset into Python using Pandas.
 
-Gamma – Presentation creation
+Data Cleaning: Handled missing values, duplicates, and inconsistent formatting.
 
-Microsoft PowerPoint – Project presentation
+Exploratory Data Analysis (EDA): Performed statistical analysis and visualizations to uncover trends.
 
-Excel – Initial data inspection
+SQL Queries: Loaded cleaned data into MySQL Workbench to extract actionable insights.
 
-## Project Steps
-### 1. Data Loading
+Dashboard Creation: Built an interactive Power BI dashboard with filters for role, location, and experience.
 
-The dataset was imported into Python using Pandas for further analysis.
+Reporting & Presentation: Compiled findings into a professional report and created a Gamma presentation for stakeholders.
 
-### 2. Exploratory Data Analysis (EDA)
+## 📊 Dashboard
 
-EDA was performed to understand the structure and patterns of the dataset. This included:
+The Power BI dashboard includes:
 
-Checking dataset structure
+Salary ranges by AI role and experience level
 
-Understanding column distributions
+Job demand by industry and location
 
-Identifying missing values
+Interactive filters for deep analysis
+<img width="1348" height="752" alt="Screenshoot" src="https://github.com/user-attachments/assets/0942e164-7b9c-4e2f-a8c4-d6fee29add4e" />
 
-Analyzing salary ranges and job roles
 
-### 3. Data Cleaning
+## 📈 Results
 
-Data preprocessing steps included:
+Identified highest paying AI roles and industries
 
-Handling missing values
+Highlighted emerging trends in AI job demand
 
-Standardizing column names
+Visualized insights in a clear, interactive dashboard
 
-Removing duplicates
+Produced a professional report and presentation suitable for stakeholders and recruiters
 
-Formatting data types
+## 💻 How to Run
 
-### 4. SQL Analysis
+Clone the repository:
 
-The cleaned dataset was analyzed using MySQL queries to extract insights such as:
+git clone <repository_url>
 
-Average salary by job title
+Python Notebook: Open and run cells for EDA and data cleaning.
 
-Salary trends by experience level
+SQL Queries: Load cleaned dataset into MySQL Workbench and run queries.
 
-Country-wise salary comparison
+Power BI Dashboard: Open the .pbix file to explore visualizations.
 
-Company size vs salary analysis
+Presentation: Access Gamma presentation for a summarized professional view.
 
-### 5. Power BI Dashboard
-
-An interactive Power BI dashboard was built to visualize insights from the dataset.
-
-Dashboard features include:
-
-Salary distribution by experience level
-
-Top AI job roles by salary
-
-Geographic salary trends
-
-Remote work distribution
-
-Dashboard
-
-The Power BI dashboard provides interactive visualizations that allow users to explore salary trends and job market insights.
-
-Key visuals include:
-
-Salary vs Experience Level
-
-Job Role Salary Comparison
-
-Country-wise Salary Analysis
-
-Company Size Impact on Salary
-
-(Add dashboard screenshots here in GitHub)
-
-Results
-
-Key insights from the analysis include:
-
-Senior-level AI professionals earn significantly higher salaries compared to entry-level roles.
-
-Certain countries offer higher average salaries for AI-related positions.
-
-Larger companies tend to provide more competitive salary packages.
-
-Remote work opportunities are increasingly common in AI jobs.
-
-These insights help understand current trends in the AI job market.
-
-# How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/ai-job-market-salary-analysis.git
-
-Install required Python libraries
-
-pip install pandas numpy
-
-Run the Python script for data cleaning and analysis.
-
-Import the dataset into MySQL and execute the SQL queries.
-
-Open the Power BI (.pbix) file to explore the interactive dashboard.
 
 # Project Files
 
@@ -163,12 +103,13 @@ Project report
 
 Project presentation slides
 
-Author
+# Author
 
 Vikku Kumar
+
 Aspiring Data Analyst
 
-Skills:
+#### Skills:
 
 Python
 
@@ -179,3 +120,5 @@ Power BI
 Data Analysis
 
 Data Visualization
+
+Gamma (PPT)
