@@ -62,17 +62,6 @@ Interactive filters for deep analysis
 <img width="1348" height="752" alt="Screenshoot" src="<img width="1348" height="752" alt="Screenshoot" src="https://github.com/user-attachments/assets/f20c50e8-b428-4d9a-88cc-9c74dd2325ee" />
 " />
 
-
-## 📈 Results
-
-Identified highest paying AI roles and industries
-
-Highlighted emerging trends in AI job demand
-
-Visualized insights in a clear, interactive dashboard
-
-Produced a professional report and presentation suitable for stakeholders and recruiters
-
 ## 💻 How to Run
 
 Clone the repository:
@@ -106,20 +95,12 @@ Project presentation slides
 
 # Author
 
-Vikku Kumar
+Name: Vikku Kumar
 
-Aspiring Data Analyst
+mail: vikku.kr98@gmail.com
+
+Data Analyst
 
 #### Skills:
 
-Python
-
-SQL
-
-Power BI
-
-Data Analysis
-
-Data Visualization
-
-Gamma (PPT)
+Python, SQL, Power BI, Data Analysis, Data Visualization, Gamma (PPT)
